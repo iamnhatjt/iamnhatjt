@@ -1,5 +1,5 @@
 ### Hi there 👋, jt is flutter developer.
-<img src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://media.tenor.com/gLMGhjIt-twAAAAi/penguin-snow.gif)" alt="git" width="40" height="40"/> 
+<img src="https://media.tenor.com/gLMGhjIt-twAAAAi/penguin-snow.gif" alt="wellCome" width="40" height="40"/> 
 
 
 - 😄 i'm currently learning everything,...
