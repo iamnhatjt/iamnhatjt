@@ -1,4 +1,4 @@
-### Hi there 👋, jt is flutter developer.<img src="https://media.tenor.com/gLMGhjIt-twAAAAi/penguin-snow.gif" alt="wellCome" width="40" height="40"/> 
+### Hi there 👋, jt is developer.
 
 
 - 😄 i'm currently learning everything,...
